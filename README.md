@@ -1,0 +1,4 @@
+# Make Perfect
+This app is a resurrection of an app I made in code school a few years ago. The original was built with vanilla JavaScript and Django, and for all its quirks and rookie mistakes, I ended up using it daily for keeping track of lyrics and chord sheets I was working on. I took the app down awhile ago and haven't touched music since my dev job and grad school began consuming my life, but the idea of this little app never went away. 
+
+I'd like to work some music back into my life while rounding out my developer skills on the side (and while completing grad school!), so this app will be a sandbox where I play and learn as I have the time, both as a musician and as a developer. I'm not sure yet if the app will be in Angular or React or even Vue. I'm going to get the core backend functionality set up with Node and Mongo before I work on the aesthetic and interaction design on the front end. I'll deploy the app to Heroku for the foreseeable future. 
