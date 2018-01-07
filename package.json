@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Repertoire management and practice app for singer-songwriters.",
   "main": "index.js",
+  "engines": {
+    "node": "8.4",
+    "npm": "5.6.x"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
